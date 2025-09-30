@@ -1,0 +1,12 @@
+# ninja log v5
+163	2083	7803225139233261	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	94ad1c6a0e418d6a
+2091	3293	7803225149655356	C:/Users/Chanchan/Desktop/Unity Projects/Remote LED Changeable Content/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4r205k4x/obj/arm64-v8a/libswappywrapper.so	77727ff7d9409a3a
+54	5578	7803225172798655	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c3e328a6af19fc7
+36	6159	7803225174509572	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3f99095133cdc100
+91	6365	7803225180427264	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	ce7a6f21fd83b297
+144	6552	7803225183617169	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	d6105bd6d06a28b0
+72	6646	7803225184119745	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	c8cfe179b4c221b5
+20	6702	7803225185354350	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e0af054b99341cf6
+111	7317	7803225187875916	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8390cd1046f3dc9
+2	7830	7803225196742065	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	968f107cf9dd0331
+7831	8176	7803225199714149	C:/Users/Chanchan/Desktop/Unity Projects/Remote LED Changeable Content/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4r205k4x/obj/arm64-v8a/libgame.so	18ef4c60a0af19f0
